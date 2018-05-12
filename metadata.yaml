@@ -1,0 +1,26 @@
+_repo: Encyclopaedia-Britannica-11th-Edition-Volume-8-Slice-9-Dyer--to--Echidna-_34878
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2011-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Encyclopedias and dictionaries'
+- !lcc 'AE'
+title: "Encyclopaedia Britannica, 11th Edition, \"Dyer, Sir Edward\" to \"Echidna\"\
+  \r\nVolume 8, Slice 9"
+url: http://www.gutenberg.org/ebooks/34878
